@@ -6,6 +6,8 @@ export default defineConfig({
   base: '/FrontendClinica/', // Cambia esto a tu repositorio
   plugins: [react()],
   build: {
-    outDir: 'dist' // Cambia esto si tu directorio de salida es diferente
+    outDir: 'dist' 
+    //hbjhbj
+    // Cambia esto si tu directorio de salida es diferente
   }
 });
